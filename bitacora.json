@@ -1,0 +1,131 @@
+[
+  {
+    "nodo": "Solin Rodriguez",
+    "ubicacion": "UTP - FISC - Desarrollo de Software VIII",
+    "hora": "2026-09-25 08:34:21",
+    "metricas": {
+      "cpu": {
+        "n": 26,
+        "min": 3.4,
+        "max": 53.8,
+        "prom": 10.18
+      },
+      "memoria": {
+        "n": 26,
+        "min": 72.6,
+        "max": 73.9,
+        "prom": 73.09
+      },
+      "red": {
+        "n": 26,
+        "min": 7.1,
+        "max": 128.1,
+        "prom": 19.95
+      },
+      "disco": {
+        "n": 5,
+        "min": 12.7,
+        "max": 12.7,
+        "prom": 12.7
+      },
+      "procesos": {
+        "n": 5,
+        "min": 349,
+        "max": 350,
+        "prom": 349.4
+      },
+      "bateria": {
+        "n": 5,
+        "min": 71.3,
+        "max": 71.3,
+        "prom": 71.3
+      }
+    }
+  },
+  {
+    "nodo": "Solin Rodriguez",
+    "ubicacion": "UTP - FISC - Desarrollo de Software VIII",
+    "hora": "2026-09-25 08:34:51",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 3.5,
+        "max": 71.5,
+        "prom": 21.53
+      },
+      "memoria": {
+        "n": 28,
+        "min": 73.0,
+        "max": 76.5,
+        "prom": 74.26
+      },
+      "red": {
+        "n": 28,
+        "min": 0.0,
+        "max": 167.2,
+        "prom": 33.96
+      },
+      "disco": {
+        "n": 6,
+        "min": 12.7,
+        "max": 12.7,
+        "prom": 12.7
+      },
+      "procesos": {
+        "n": 6,
+        "min": 353,
+        "max": 358,
+        "prom": 354.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 71.2,
+        "max": 71.3,
+        "prom": 71.22
+      }
+    }
+  },
+  {
+    "nodo": "Solin Rodriguez",
+    "ubicacion": "UTP - FISC - Desarrollo de Software VIII",
+    "hora": "2026-09-25 08:35:21",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 3.8,
+        "max": 33.4,
+        "prom": 10.13
+      },
+      "memoria": {
+        "n": 27,
+        "min": 72.1,
+        "max": 77.8,
+        "prom": 75.41
+      },
+      "red": {
+        "n": 27,
+        "min": 5.0,
+        "max": 825.4,
+        "prom": 54.07
+      },
+      "disco": {
+        "n": 6,
+        "min": 12.7,
+        "max": 12.7,
+        "prom": 12.7
+      },
+      "procesos": {
+        "n": 6,
+        "min": 348,
+        "max": 354,
+        "prom": 350.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 71.1,
+        "max": 71.1,
+        "prom": 71.1
+      }
+    }
+  }
+]
